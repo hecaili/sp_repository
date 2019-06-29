@@ -1,7 +1,11 @@
 sp:
   user-service:
+
     users: "[{\"id\":8999, \"username\":\"def\",\"password\":\"456\"},{\"id\":88, \"username\":\"def\",\"password\":\"456\"},{\"id\":81, \"username\":\"def\",\"password\":\"456\"},{\"id\":8, \"username\":\"def\",\"password\":\"456\"},{\"id\":9, \"username\":\"ghi\",\"password\":\"789\"}]"
-##
+
+    
+
+
 spring:
   application:
     name: user-service
